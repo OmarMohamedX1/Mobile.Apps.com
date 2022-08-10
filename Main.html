@@ -7,7 +7,6 @@
 				background-color: beige;
 				color: black;
 			}
-		
 		</style>
 	</head>
 	<body>
@@ -124,6 +123,16 @@
 		<br>
 		<hr>
 		<br>
-	
+		<h3>Most Downloaded Apps Table</h3>
+		<a href="Table.html">Most Downloaded Apps Table</a>
+		<br>
+		<br>
+		<hr>
+		<br>
+		<p>Check how much people downloaded those apps but on table</p>
+		<br>
+		<hr>
+		<br>
+		<br>
 	</body>
 </html>
