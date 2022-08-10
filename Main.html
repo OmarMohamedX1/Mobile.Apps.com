@@ -7,16 +7,27 @@
 				background-color: beige;
 				color: black;
 			}
+			h4{
+				text-align: right;
+				color: maroon;
+				padding-right: 20px;
+			}
+			h2{
+				text-align: left;
+				padding-left: 20px;
+			}
 		</style>
 	</head>
 	<body>
-		<br><br>
+		<h4>Created on 8/9/2022</h4>
+		<br>
 		<h1>Most Downloaded Apps</h1>
 		<img src="MobileApps.png" alt="Something Went Wrong" title="MobileApps" width="400" height="400">
 		<h3>#1) TikTok</h3>
 		<a href="TikTok.html">TikTok</a>
 		<br>
 		<br>
+		<h2><a href="Updates.html">Updates</a></h2>
 		<hr>
 		<br>
 		<p>TikTok is one of the most popular apps to date. It is at the top of the list of most popular apps. By now, it has been downloaded over 2 billion times overall globally. The rise was also due to the worldwide lockdown due to the pandemic. TikTok isn’t just a way of entertainment but also a source of income for many.</p>
@@ -114,7 +125,7 @@
 		<hr>
 		<br>
 		<h3>Creator of This Project</h3>
-		<a href="Creator.html">Check Creator</a>
+		<a href="Creator.html">Creator of Project</a>
 		<br>
 		<br>
 		<hr>
@@ -129,10 +140,11 @@
 		<br>
 		<hr>
 		<br>
-		<p>Check how much people downloaded those apps but on table</p>
+		<p>Check how much people downloaded those Apps</p>
 		<br>
 		<hr>
 		<br>
 		<br>
+
 	</body>
 </html>
